@@ -1,0 +1,13 @@
+temp
+# Timer(5, lambda:print(time.asctime())).start()
+ # Timer(7200, update_token).start()
+ # Timer(2, lambda:print('timer1:',time.asctime())).start()
+ # Timer(3, lambda:print('timer1:',time.asctime())).start()
+ # Timer(2, timer1).start()
+ # Timer(3, timer2).start()
+
+
+# zh_date = raw[:4]+'年'+raw[4:6]+'月'+raw[6:8]+'日'+raw[8:10]+'时'+raw[10:12]+'分'
+
+# print(raw[:4],'年',raw[4:6],'月',raw[6:8],'日')
+# print('',raw[8:10],'时',raw[10:12],'分')
